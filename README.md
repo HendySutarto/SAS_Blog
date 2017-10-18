@@ -1,4 +1,4 @@
-# SAS_Blog
+# Interview Question
 
 You are given this table:
 
@@ -10,8 +10,11 @@ Further breaking down for filling the gap, this is the next step you want to ach
 
 ![](https://i.imgur.com/ModWulT.png)
 
+Eventually, all the row gaps are filled. The final table should look like this:
 
+![](https://i.imgur.com/jq2XNMn.png)
 
+# Solution
 
 ```sas
 data    sourcedata2 ;
