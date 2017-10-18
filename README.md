@@ -1,6 +1,6 @@
 # SAS_Blog
 
-```
+```sas
 data    sourcedata2 ;
     infile datalines ;
     informat SourceCURRENCY  $3. TargetCurrency  $3. Date date7.   Rate 6.4 ;
