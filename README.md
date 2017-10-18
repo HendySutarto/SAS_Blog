@@ -1,5 +1,9 @@
 # SAS_Blog
 
+You are given this table:
+!(https://i.imgur.com/g36wB06.png)
+
+
 ```sas
 data    sourcedata2 ;
     infile datalines ;
