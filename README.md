@@ -4,6 +4,12 @@ You are given this table:
 
 ![](https://i.imgur.com/g36wB06.png)
 
+Note the gap between 7Mar15 and 10Mar15, also between 11Mar15 and 20Mar15, and between 20Mar15 and 31Mar15.
+
+Further breaking down for filling the gap, this is the next step you want to achieve (before completing the fills):
+
+![](https://i.imgur.com/ModWulT.png)
+
 
 
 
