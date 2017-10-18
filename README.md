@@ -6,7 +6,7 @@ You are given this table:
 
 Note the gap between 7Mar15 and 10Mar15, also between 11Mar15 and 20Mar15, and between 20Mar15 and 31Mar15.
 
-Further breaking down for filling the gap, this is the next step you want to achieve (before completing the fills) as below. Note the date has been filled using "Datemaster" field, while the original date still empty. 
+Further breaking down for filling the gap, this is the next step you want to achieve (before completing the fills) as below. Note the date has been filled using "Datemaster" field, while the original date still posing many unfilled gaps. 
 
 ![](https://i.imgur.com/ModWulT.png)
 
