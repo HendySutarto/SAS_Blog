@@ -1,6 +1,6 @@
 # SAS_Blog
 
-
+{code}
 data    sourcedata2 ;
     infile datalines ;
     informat SourceCURRENCY  $3. TargetCurrency  $3. Date date7.   Rate 6.4 ;
@@ -73,3 +73,4 @@ data    table_result_2a  ;
         retained_Date
         ;
 run;
+{code}
