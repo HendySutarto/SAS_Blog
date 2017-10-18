@@ -1,7 +1,7 @@
 # SAS_Blog
 
 You are given this table:
-!(https://i.imgur.com/g36wB06.png)
+![Alt Text](https://i.imgur.com/g36wB06.png)
 
 
 ```sas
