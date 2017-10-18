@@ -1,7 +1,10 @@
 # SAS_Blog
 
 You are given this table:
-![Alt Text](https://i.imgur.com/g36wB06.png)
+
+![](https://i.imgur.com/g36wB06.png)
+
+
 
 
 ```sas
