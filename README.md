@@ -6,13 +6,13 @@ You are given this table:
 
 Note the gap between 7Mar15 and 10Mar15, also between 11Mar15 and 20Mar15, and between 20Mar15 and 31Mar15.
 
-Further breaking down for filling the gap, this is the next step you want to achieve (before completing the fills):
+Further breaking down for filling the gap, this is the next step you want to achieve (before completing the fills) as below. Note the date has been filled using "Datemaster" field, while the original date still empty. 
 
 ![](https://i.imgur.com/ModWulT.png)
 
 Eventually, all the row gaps are filled. The final table should look like this:
 
-![](https://i.imgur.com/jq2XNMn.png)
+![](https://i.imgur.com/HhA3NLO.png)
 
 # Solution
 
